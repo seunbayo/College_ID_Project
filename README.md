@@ -26,9 +26,17 @@ here is the step video for you
 **STEP-1**  use command in terminal -->> `npm run dev`
 
 
+https://user-images.githubusercontent.com/75988023/183985064-316335c8-b431-408c-8f10-ce9446b0e0f8.mp4
 
 
-**STEP-1**  automatically browser will open 
+
+
+
+**STEP-2**  automatically browser will open 
+
+https://user-images.githubusercontent.com/75988023/183986183-c4437518-a6a4-4125-a78e-157cb0d0cd2c.mp4
+
+
 
 to check your identity_card 
 
