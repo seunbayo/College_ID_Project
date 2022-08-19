@@ -43,10 +43,10 @@ to check your identity_card
 ## before every this first Connect with -->> Metamsk Wallet <--  >>>  Testnet -- Rinkeyby testnet
   
 
-  Put id--->>    1234 
-                  9876
-                    9874
-                      9873
+  Put id--->> id-1 -> **1234**
+              id-2 -> **9876**
+              id-3 -> **9874**
+              id-4 -> **9873**
 
                       these are some already issued ID's on Blockchain, data is faching by through Rinkeby testnet Blockchain.
 
