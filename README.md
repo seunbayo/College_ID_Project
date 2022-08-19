@@ -52,8 +52,8 @@ to check your identity_card
  these are some already issued ID's on Blockchain, data is faching by through Rinkeby testnet Blockchain.
 
 
-
-
+***FLOW CHART OF THIS PROJECT***
+https://www.canva.com/design/DAFJv64NAvA/tK1DQIAIvZNdqjHYEPLiNg/view?utm_content=DAFJv64NAvA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 if you want to be owner of this project you have change complete abi code or byte code in app.js file 
