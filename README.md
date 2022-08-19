@@ -53,6 +53,10 @@ to check your identity_card
 
 
 ***FLOW CHART OF THIS PROJECT***
+<<<<<<< HEAD
+=======
+![flowchart of project](https://user-images.githubusercontent.com/75988023/185572312-c58f5961-ab0c-47e0-9163-1ac22dcbfa41.jpeg)
+>>>>>>> 8785d63eb1170952848723a3c0f7824360fd9430
 
 
 https://www.canva.com/design/DAFJv64NAvA/tK1DQIAIvZNdqjHYEPLiNg/view?utm_content=DAFJv64NAvA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
